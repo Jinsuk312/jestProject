@@ -18,6 +18,7 @@
 	},
 	"homepage": "https://github.com/Jinsuk312/jestProject#readme",
 	"devDependencies": {
-		"jest": "^24.9.0"
+		"jest": "^24.9.0",
+		"node-fetch": "^2.6.0"
 	}
 }
